@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjControlLibros\pjControlLibros\bin\Debug\pjControlLibros.exe.config
+F:\Proyectos C#\pjControlLibros\pjControlLibros\bin\Debug\pjControlLibros.exe
+F:\Proyectos C#\pjControlLibros\pjControlLibros\bin\Debug\pjControlLibros.pdb
+F:\Proyectos C#\pjControlLibros\pjControlLibros\obj\Debug\pjControlLibros.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjControlLibros\pjControlLibros\obj\Debug\pjControlLibros.Form1.resources
+F:\Proyectos C#\pjControlLibros\pjControlLibros\obj\Debug\pjControlLibros.Properties.Resources.resources
+F:\Proyectos C#\pjControlLibros\pjControlLibros\obj\Debug\pjControlLibros.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjControlLibros\pjControlLibros\obj\Debug\pjControlLibros.exe
+F:\Proyectos C#\pjControlLibros\pjControlLibros\obj\Debug\pjControlLibros.pdb

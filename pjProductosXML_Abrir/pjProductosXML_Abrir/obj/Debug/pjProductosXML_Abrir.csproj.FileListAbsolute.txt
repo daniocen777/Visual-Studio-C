@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjProductosXML_Abrir\pjProductosXML_Abrir\bin\Debug\pjProductosXML_Abrir.exe.config
+F:\Proyectos C#\pjProductosXML_Abrir\pjProductosXML_Abrir\obj\Debug\pjProductosXML_Abrir.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjProductosXML_Abrir\pjProductosXML_Abrir\obj\Debug\pjProductosXML_Abrir.Form1.resources
+F:\Proyectos C#\pjProductosXML_Abrir\pjProductosXML_Abrir\obj\Debug\pjProductosXML_Abrir.Properties.Resources.resources
+F:\Proyectos C#\pjProductosXML_Abrir\pjProductosXML_Abrir\obj\Debug\pjProductosXML_Abrir.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjProductosXML_Abrir\pjProductosXML_Abrir\bin\Debug\pjProductosXML_Abrir.exe
+F:\Proyectos C#\pjProductosXML_Abrir\pjProductosXML_Abrir\bin\Debug\pjProductosXML_Abrir.pdb
+F:\Proyectos C#\pjProductosXML_Abrir\pjProductosXML_Abrir\obj\Debug\pjProductosXML_Abrir.exe
+F:\Proyectos C#\pjProductosXML_Abrir\pjProductosXML_Abrir\obj\Debug\pjProductosXML_Abrir.pdb

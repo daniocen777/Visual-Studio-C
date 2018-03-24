@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dcContrato">
+  <DataContextMoniker Name="/dcContratoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a856d460-b53d-4c9e-8835-f5f05e574e8d" absoluteBounds="0.75, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/dcContratoDataContext/EQUIPO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8f674216-b6cd-44ad-93ca-0424fd587438" absoluteBounds="0.76500000000000012, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="00c00aa4-b618-4ee5-bdbd-4e1782b20dbf" absoluteBounds="4.125, 0.625, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/dcContratoDataContext/TIPO_EQUIPO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0855a294-3772-400f-a970-47624bed7e66" absoluteBounds="4.14, 1.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.125 : 1.22199625651042); (2.75 : 1.22199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dcContratoDataContext/TIPO_EQUIPO/TIPO_EQUIPO_EQUIPO" />
+      <nodes>
+        <classShapeMoniker Id="00c00aa4-b618-4ee5-bdbd-4e1782b20dbf" />
+        <classShapeMoniker Id="a856d460-b53d-4c9e-8835-f5f05e574e8d" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="92cd5ffb-a8a4-45c0-9e6c-2020ab5c1cef" absoluteBounds="4.125, 2.625, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/dcContratoDataContext/ESTADO_EQUIPO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="96f37478-25b9-4d48-8570-ad868cc0dfeb" absoluteBounds="4.1400000000000006, 3.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.125 : 3.22199625651042); (1.75 : 3.22199625651042); (1.75 : 2.27089680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/dcContratoDataContext/ESTADO_EQUIPO/ESTADO_EQUIPO_EQUIPO" />
+      <nodes>
+        <classShapeMoniker Id="92cd5ffb-a8a4-45c0-9e6c-2020ab5c1cef" />
+        <classShapeMoniker Id="a856d460-b53d-4c9e-8835-f5f05e574e8d" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjVentaProductos\pjVentaProductos\bin\Debug\pjVentaProductos.exe.config
+F:\Proyectos C#\pjVentaProductos\pjVentaProductos\bin\Debug\pjVentaProductos.exe
+F:\Proyectos C#\pjVentaProductos\pjVentaProductos\bin\Debug\pjVentaProductos.pdb
+F:\Proyectos C#\pjVentaProductos\pjVentaProductos\obj\Debug\pjVentaProductos.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjVentaProductos\pjVentaProductos\obj\Debug\pjVentaProductos.Form1.resources
+F:\Proyectos C#\pjVentaProductos\pjVentaProductos\obj\Debug\pjVentaProductos.Properties.Resources.resources
+F:\Proyectos C#\pjVentaProductos\pjVentaProductos\obj\Debug\pjVentaProductos.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjVentaProductos\pjVentaProductos\obj\Debug\pjVentaProductos.exe
+F:\Proyectos C#\pjVentaProductos\pjVentaProductos\obj\Debug\pjVentaProductos.pdb

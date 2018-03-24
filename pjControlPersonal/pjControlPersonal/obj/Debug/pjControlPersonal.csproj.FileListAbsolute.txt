@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjControlPersonal\pjControlPersonal\bin\Debug\pjControlPersonal.exe.config
+F:\Proyectos C#\pjControlPersonal\pjControlPersonal\bin\Debug\pjControlPersonal.exe
+F:\Proyectos C#\pjControlPersonal\pjControlPersonal\bin\Debug\pjControlPersonal.pdb
+F:\Proyectos C#\pjControlPersonal\pjControlPersonal\obj\Debug\pjControlPersonal.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjControlPersonal\pjControlPersonal\obj\Debug\pjControlPersonal.Form1.resources
+F:\Proyectos C#\pjControlPersonal\pjControlPersonal\obj\Debug\pjControlPersonal.Properties.Resources.resources
+F:\Proyectos C#\pjControlPersonal\pjControlPersonal\obj\Debug\pjControlPersonal.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjControlPersonal\pjControlPersonal\obj\Debug\pjControlPersonal.exe
+F:\Proyectos C#\pjControlPersonal\pjControlPersonal\obj\Debug\pjControlPersonal.pdb

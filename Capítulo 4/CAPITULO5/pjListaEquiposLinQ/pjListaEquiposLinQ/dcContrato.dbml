@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CONTRATO" Class="dcContratoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=CONTRATO;Integrated Security=True" SettingsObjectName="pjListaEquiposLinQ.Properties.Settings" SettingsPropertyName="CONTRATOConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.SP_LISTAEQUIPOS" Method="SP_LISTAEQUIPOS">
+    <ElementType Name="SP_LISTAEQUIPOSResult">
+      <Column Name="CODIGO" Type="System.String" DbType="Char(6) NOT NULL" CanBeNull="false" />
+      <Column Name="DESCRIPCION" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TIPO" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="PRECIO" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="ESTADO" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

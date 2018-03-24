@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjEquipoDataView\pjEquipoDataView\bin\Debug\pjEquipoDataView.exe.config
+F:\Proyectos C#\pjEquipoDataView\pjEquipoDataView\bin\Debug\pjEquipoDataView.exe
+F:\Proyectos C#\pjEquipoDataView\pjEquipoDataView\bin\Debug\pjEquipoDataView.pdb
+F:\Proyectos C#\pjEquipoDataView\pjEquipoDataView\obj\Debug\pjEquipoDataView.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjEquipoDataView\pjEquipoDataView\obj\Debug\pjEquipoDataView.Form1.resources
+F:\Proyectos C#\pjEquipoDataView\pjEquipoDataView\obj\Debug\pjEquipoDataView.Properties.Resources.resources
+F:\Proyectos C#\pjEquipoDataView\pjEquipoDataView\obj\Debug\pjEquipoDataView.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjEquipoDataView\pjEquipoDataView\obj\Debug\pjEquipoDataView.exe
+F:\Proyectos C#\pjEquipoDataView\pjEquipoDataView\obj\Debug\pjEquipoDataView.pdb

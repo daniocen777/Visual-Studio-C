@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Producto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <listado>
+    <Producto>
+      <descripcion>LECHE QUE NO ES LECHE</descripcion>
+      <categoria>Lácteos</categoria>
+      <precio>4</precio>
+      <fechVenc>2018-05-19T00:00:00</fechVenc>
+      <cantidad>23</cantidad>
+    </Producto>
+    <Producto>
+      <descripcion>COCA COLA VENENO</descripcion>
+      <categoria>Bebidas</categoria>
+      <precio>4.5</precio>
+      <fechVenc>2018-10-25T00:00:00</fechVenc>
+      <cantidad>12</cantidad>
+    </Producto>
+  </listado>
+</Producto>

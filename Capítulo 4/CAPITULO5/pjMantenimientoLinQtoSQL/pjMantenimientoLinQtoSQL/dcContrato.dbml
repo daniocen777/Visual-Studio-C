@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CONTRATO" Class="dcContratoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=CONTRATO;Integrated Security=True" SettingsObjectName="pjMantenimientoLinQtoSQL.Properties.Settings" SettingsPropertyName="CONTRATOConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.EQUIPO" Member="EQUIPO">
+    <Type Name="EQUIPO">
+      <Column Name="IDE_EQU" Type="System.String" DbType="Char(6) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="COD_TIP_EQU" Type="System.String" DbType="Char(6) NOT NULL" CanBeNull="false" />
+      <Column Name="DESC_EQU" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PREC_EQU" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="COD_EST" Type="System.String" DbType="Char(6)" CanBeNull="true" />
+      <Association Name="TIPO_EQUIPO_EQUIPO" Member="TIPO_EQUIPO" ThisKey="COD_TIP_EQU" OtherKey="COD_TIP_EQU" Type="TIPO_EQUIPO" IsForeignKey="true" />
+      <Association Name="ESTADO_EQUIPO_EQUIPO" Member="ESTADO_EQUIPO" ThisKey="COD_EST" OtherKey="COD_EST" Type="ESTADO_EQUIPO" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TIPO_EQUIPO" Member="TIPO_EQUIPO">
+    <Type Name="TIPO_EQUIPO">
+      <Column Name="COD_TIP_EQU" Type="System.String" DbType="Char(6) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DES_TIP" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="TIPO_EQUIPO_EQUIPO" Member="EQUIPO" ThisKey="COD_TIP_EQU" OtherKey="COD_TIP_EQU" Type="EQUIPO" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ESTADO_EQUIPO" Member="ESTADO_EQUIPO">
+    <Type Name="ESTADO_EQUIPO">
+      <Column Name="COD_EST" Type="System.String" DbType="Char(6) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DES_EST" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="ESTADO_EQUIPO_EQUIPO" Member="EQUIPO" ThisKey="COD_EST" OtherKey="COD_EST" Type="EQUIPO" />
+    </Type>
+  </Table>
+</Database>

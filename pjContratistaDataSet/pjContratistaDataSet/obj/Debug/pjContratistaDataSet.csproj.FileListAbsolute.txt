@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjContratistaDataSet\pjContratistaDataSet\bin\Debug\pjContratistaDataSet.exe.config
+F:\Proyectos C#\pjContratistaDataSet\pjContratistaDataSet\bin\Debug\pjContratistaDataSet.exe
+F:\Proyectos C#\pjContratistaDataSet\pjContratistaDataSet\bin\Debug\pjContratistaDataSet.pdb
+F:\Proyectos C#\pjContratistaDataSet\pjContratistaDataSet\obj\Debug\pjContratistaDataSet.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjContratistaDataSet\pjContratistaDataSet\obj\Debug\pjContratistaDataSet.Form1.resources
+F:\Proyectos C#\pjContratistaDataSet\pjContratistaDataSet\obj\Debug\pjContratistaDataSet.Properties.Resources.resources
+F:\Proyectos C#\pjContratistaDataSet\pjContratistaDataSet\obj\Debug\pjContratistaDataSet.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjContratistaDataSet\pjContratistaDataSet\obj\Debug\pjContratistaDataSet.exe
+F:\Proyectos C#\pjContratistaDataSet\pjContratistaDataSet\obj\Debug\pjContratistaDataSet.pdb

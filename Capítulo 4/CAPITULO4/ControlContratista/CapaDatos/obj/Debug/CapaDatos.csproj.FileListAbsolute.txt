@@ -1,0 +1,14 @@
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Libro ADO C#\ControlContratista\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Libro ADO C#\ControlContratista\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Libro ADO C#\ControlContratista\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Libro ADO C#\ControlContratista\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Libro ADO C#\ControlContratista\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Libro ADO C#\ControlContratista\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Libro ADO C#\ControlContratista\CapaDatos\obj\Debug\CapaDatos.pdb

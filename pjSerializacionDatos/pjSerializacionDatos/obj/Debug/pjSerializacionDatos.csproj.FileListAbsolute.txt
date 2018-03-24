@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjSerializacionDatos\pjSerializacionDatos\bin\Debug\pjSerializacionDatos.exe.config
+F:\Proyectos C#\pjSerializacionDatos\pjSerializacionDatos\bin\Debug\pjSerializacionDatos.exe
+F:\Proyectos C#\pjSerializacionDatos\pjSerializacionDatos\bin\Debug\pjSerializacionDatos.pdb
+F:\Proyectos C#\pjSerializacionDatos\pjSerializacionDatos\obj\Debug\pjSerializacionDatos.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjSerializacionDatos\pjSerializacionDatos\obj\Debug\pjSerializacionDatos.Form1.resources
+F:\Proyectos C#\pjSerializacionDatos\pjSerializacionDatos\obj\Debug\pjSerializacionDatos.Properties.Resources.resources
+F:\Proyectos C#\pjSerializacionDatos\pjSerializacionDatos\obj\Debug\pjSerializacionDatos.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjSerializacionDatos\pjSerializacionDatos\obj\Debug\pjSerializacionDatos.exe
+F:\Proyectos C#\pjSerializacionDatos\pjSerializacionDatos\obj\Debug\pjSerializacionDatos.pdb

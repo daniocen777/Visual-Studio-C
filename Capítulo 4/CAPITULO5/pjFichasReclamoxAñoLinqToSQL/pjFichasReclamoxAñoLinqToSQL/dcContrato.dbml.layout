@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dcContrato">
+  <DataContextMoniker Name="/dcContratoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="47eaf148-7033-4e97-aba5-81d5c82d58e3" absoluteBounds="2.25, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dcContratoDataContext/FICHARECLAMO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="874bd795-4c05-402f-a800-7f473908e324" absoluteBounds="2.265, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

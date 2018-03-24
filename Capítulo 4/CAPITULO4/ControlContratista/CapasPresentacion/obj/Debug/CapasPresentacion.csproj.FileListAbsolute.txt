@@ -1,0 +1,51 @@
+C:\Users\Lucy\Desktop\Crystal-Capas\ControlContratista\CapasPresentacion\bin\Debug\CapasPresentacion.exe.config
+C:\Users\Lucy\Desktop\Crystal-Capas\ControlContratista\CapasPresentacion\bin\Debug\CapasPresentacion.exe
+C:\Users\Lucy\Desktop\Crystal-Capas\ControlContratista\CapasPresentacion\bin\Debug\CapasPresentacion.pdb
+C:\Users\Lucy\Desktop\Crystal-Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Lucy\Desktop\Crystal-Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmNuevoContrato.resources
+C:\Users\Lucy\Desktop\Crystal-Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.Properties.Resources.resources
+C:\Users\Lucy\Desktop\Crystal-Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.csproj.GenerateResource.Cache
+C:\Users\Lucy\Desktop\Crystal-Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.exe
+C:\Users\Lucy\Desktop\Crystal-Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.pdb
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\bin\Debug\CapasPresentacion.exe.config
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.exe
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.pdb
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\bin\Debug\CapasPresentacion.exe
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\bin\Debug\CapasPresentacion.pdb
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmActualizarContratista.resources
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmAgendaContratista.resources
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmBuscarContratista.resources
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmEliminarContratista.resources
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmListaGeneral.resources
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmMenuPrincipal.resources
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmNuevoContratista.resources
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.Properties.Resources.resources
+C:\Users\Lucy\Desktop\Mantenimiento_con_Capas\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.csproj.GenerateResource.Cache
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\bin\Debug\CapasPresentacion.exe.config
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.exe
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.pdb
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\bin\Debug\CapasPresentacion.exe
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\bin\Debug\CapasPresentacion.pdb
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\bin\Debug\CapaEntidad.dll
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\bin\Debug\CapaNegocio.dll
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\bin\Debug\CapaDatos.dll
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\bin\Debug\CapaDatos.pdb
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.csprojResolveAssemblyReference.cache
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmActualizarContratista.resources
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmAgendaContratista.resources
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmBuscarContratista.resources
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmEliminarContratista.resources
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmListaGeneral.resources
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmMenuPrincipal.resources
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.frmNuevoContratista.resources
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.Properties.Resources.resources
+C:\Libro ADO C#\ControlContratista\CapasPresentacion\obj\Debug\CapasPresentacion.csproj.GenerateResource.Cache

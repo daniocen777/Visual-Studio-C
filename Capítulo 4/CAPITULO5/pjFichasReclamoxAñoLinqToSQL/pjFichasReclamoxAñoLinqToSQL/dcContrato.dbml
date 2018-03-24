@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CONTRATO" Class="dcContratoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=CONTRATO;Integrated Security=True" SettingsObjectName="pjFichasReclamoxAñoLinqToSQL.Properties.Settings" SettingsPropertyName="CONTRATOConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.FICHARECLAMO" Member="FICHARECLAMO">
+    <Type Name="FICHARECLAMO">
+      <Column Name="COD_FIC" Type="System.String" DbType="Char(6) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="IDE_CON" Type="System.String" DbType="Char(6) NOT NULL" CanBeNull="false" />
+      <Column Name="IDE_CLI" Type="System.String" DbType="Char(6) NOT NULL" CanBeNull="false" />
+      <Column Name="FFI_FIC" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.SP_LISTAAÑOS" Method="SP_LISTAAÑOS">
+    <ElementType Name="SP_LISTAAÑOSResult">
+      <Column Name="AÑO" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.SP_LISTAFICHASRECLAMOXAÑO" Method="SP_LISTAFICHASRECLAMOXAÑO">
+    <Parameter Name="AÑO" Parameter="aÑO" Type="System.Int32" DbType="Int" />
+    <ElementType Name="SP_LISTAFICHASRECLAMOXAÑOResult">
+      <Column Name="CODIGO" Type="System.String" DbType="Char(6) NOT NULL" CanBeNull="false" />
+      <Column Name="CONTRATISTA" Type="System.String" DbType="VarChar(72)" CanBeNull="true" />
+      <Column Name="CLIENTE" Type="System.String" DbType="VarChar(102)" CanBeNull="true" />
+      <Column Name="FECHA" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

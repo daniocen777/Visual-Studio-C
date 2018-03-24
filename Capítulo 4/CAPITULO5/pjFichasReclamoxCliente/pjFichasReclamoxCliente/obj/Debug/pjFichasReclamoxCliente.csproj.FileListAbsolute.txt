@@ -1,0 +1,9 @@
+C:\Libro ADO C#\pjFichasReclamoxCliente\pjFichasReclamoxCliente\bin\Debug\pjFichasReclamoxCliente.exe.config
+C:\Libro ADO C#\pjFichasReclamoxCliente\pjFichasReclamoxCliente\bin\Debug\pjFichasReclamoxCliente.exe
+C:\Libro ADO C#\pjFichasReclamoxCliente\pjFichasReclamoxCliente\bin\Debug\pjFichasReclamoxCliente.pdb
+C:\Libro ADO C#\pjFichasReclamoxCliente\pjFichasReclamoxCliente\obj\Debug\pjFichasReclamoxCliente.csprojResolveAssemblyReference.cache
+C:\Libro ADO C#\pjFichasReclamoxCliente\pjFichasReclamoxCliente\obj\Debug\pjFichasReclamoxCliente.frmFichasxCliente.resources
+C:\Libro ADO C#\pjFichasReclamoxCliente\pjFichasReclamoxCliente\obj\Debug\pjFichasReclamoxCliente.Properties.Resources.resources
+C:\Libro ADO C#\pjFichasReclamoxCliente\pjFichasReclamoxCliente\obj\Debug\pjFichasReclamoxCliente.csproj.GenerateResource.Cache
+C:\Libro ADO C#\pjFichasReclamoxCliente\pjFichasReclamoxCliente\obj\Debug\pjFichasReclamoxCliente.exe
+C:\Libro ADO C#\pjFichasReclamoxCliente\pjFichasReclamoxCliente\obj\Debug\pjFichasReclamoxCliente.pdb

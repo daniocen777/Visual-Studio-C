@@ -1,0 +1,9 @@
+C:\Libro ADO C#\pjConexionClase\pjConexionClase\bin\Debug\pjConexionClase.exe.config
+C:\Libro ADO C#\pjConexionClase\pjConexionClase\bin\Debug\pjConexionClase.exe
+C:\Libro ADO C#\pjConexionClase\pjConexionClase\bin\Debug\pjConexionClase.pdb
+C:\Libro ADO C#\pjConexionClase\pjConexionClase\obj\Debug\pjConexionClase.csprojResolveAssemblyReference.cache
+C:\Libro ADO C#\pjConexionClase\pjConexionClase\obj\Debug\pjConexionClase.frmConexionClase.resources
+C:\Libro ADO C#\pjConexionClase\pjConexionClase\obj\Debug\pjConexionClase.Properties.Resources.resources
+C:\Libro ADO C#\pjConexionClase\pjConexionClase\obj\Debug\pjConexionClase.csproj.GenerateResource.Cache
+C:\Libro ADO C#\pjConexionClase\pjConexionClase\obj\Debug\pjConexionClase.exe
+C:\Libro ADO C#\pjConexionClase\pjConexionClase\obj\Debug\pjConexionClase.pdb

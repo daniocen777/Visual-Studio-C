@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjEquiposXTipoXEstado\pjEquiposXTipoXEstado\bin\Debug\pjEquiposXTipoXEstado.exe.config
+F:\Proyectos C#\pjEquiposXTipoXEstado\pjEquiposXTipoXEstado\bin\Debug\pjEquiposXTipoXEstado.exe
+F:\Proyectos C#\pjEquiposXTipoXEstado\pjEquiposXTipoXEstado\bin\Debug\pjEquiposXTipoXEstado.pdb
+F:\Proyectos C#\pjEquiposXTipoXEstado\pjEquiposXTipoXEstado\obj\Debug\pjEquiposXTipoXEstado.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjEquiposXTipoXEstado\pjEquiposXTipoXEstado\obj\Debug\pjEquiposXTipoXEstado.Form1.resources
+F:\Proyectos C#\pjEquiposXTipoXEstado\pjEquiposXTipoXEstado\obj\Debug\pjEquiposXTipoXEstado.Properties.Resources.resources
+F:\Proyectos C#\pjEquiposXTipoXEstado\pjEquiposXTipoXEstado\obj\Debug\pjEquiposXTipoXEstado.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjEquiposXTipoXEstado\pjEquiposXTipoXEstado\obj\Debug\pjEquiposXTipoXEstado.exe
+F:\Proyectos C#\pjEquiposXTipoXEstado\pjEquiposXTipoXEstado\obj\Debug\pjEquiposXTipoXEstado.pdb

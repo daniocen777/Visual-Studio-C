@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjFichaDevolucionXContratista\pjFichaDevolucionXContratista\bin\Debug\pjFichaDevolucionXContratista.exe.config
+F:\Proyectos C#\pjFichaDevolucionXContratista\pjFichaDevolucionXContratista\bin\Debug\pjFichaDevolucionXContratista.exe
+F:\Proyectos C#\pjFichaDevolucionXContratista\pjFichaDevolucionXContratista\bin\Debug\pjFichaDevolucionXContratista.pdb
+F:\Proyectos C#\pjFichaDevolucionXContratista\pjFichaDevolucionXContratista\obj\Debug\pjFichaDevolucionXContratista.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjFichaDevolucionXContratista\pjFichaDevolucionXContratista\obj\Debug\pjFichaDevolucionXContratista.Form1.resources
+F:\Proyectos C#\pjFichaDevolucionXContratista\pjFichaDevolucionXContratista\obj\Debug\pjFichaDevolucionXContratista.Properties.Resources.resources
+F:\Proyectos C#\pjFichaDevolucionXContratista\pjFichaDevolucionXContratista\obj\Debug\pjFichaDevolucionXContratista.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjFichaDevolucionXContratista\pjFichaDevolucionXContratista\obj\Debug\pjFichaDevolucionXContratista.exe
+F:\Proyectos C#\pjFichaDevolucionXContratista\pjFichaDevolucionXContratista\obj\Debug\pjFichaDevolucionXContratista.pdb

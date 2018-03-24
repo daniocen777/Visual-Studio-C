@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjSueldoEmpleado\pjSueldoEmpleado\bin\Debug\pjSueldoEmpleado.exe.config
+F:\Proyectos C#\pjSueldoEmpleado\pjSueldoEmpleado\bin\Debug\pjSueldoEmpleado.exe
+F:\Proyectos C#\pjSueldoEmpleado\pjSueldoEmpleado\bin\Debug\pjSueldoEmpleado.pdb
+F:\Proyectos C#\pjSueldoEmpleado\pjSueldoEmpleado\obj\Debug\pjSueldoEmpleado.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjSueldoEmpleado\pjSueldoEmpleado\obj\Debug\pjSueldoEmpleado.Form1.resources
+F:\Proyectos C#\pjSueldoEmpleado\pjSueldoEmpleado\obj\Debug\pjSueldoEmpleado.Properties.Resources.resources
+F:\Proyectos C#\pjSueldoEmpleado\pjSueldoEmpleado\obj\Debug\pjSueldoEmpleado.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjSueldoEmpleado\pjSueldoEmpleado\obj\Debug\pjSueldoEmpleado.exe
+F:\Proyectos C#\pjSueldoEmpleado\pjSueldoEmpleado\obj\Debug\pjSueldoEmpleado.pdb

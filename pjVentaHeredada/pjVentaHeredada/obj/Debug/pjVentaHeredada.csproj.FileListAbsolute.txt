@@ -1,0 +1,11 @@
+F:\Proyectos C#\pjVentaHeredada\pjVentaHeredada\bin\Debug\pjVentaHeredada.exe.config
+F:\Proyectos C#\pjVentaHeredada\pjVentaHeredada\bin\Debug\pjVentaHeredada.exe
+F:\Proyectos C#\pjVentaHeredada\pjVentaHeredada\bin\Debug\pjVentaHeredada.pdb
+F:\Proyectos C#\pjVentaHeredada\pjVentaHeredada\obj\Debug\pjVentaHeredada.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjVentaHeredada\pjVentaHeredada\obj\Debug\pjVentaHeredada.frmContado.resources
+F:\Proyectos C#\pjVentaHeredada\pjVentaHeredada\obj\Debug\pjVentaHeredada.frmCredito.resources
+F:\Proyectos C#\pjVentaHeredada\pjVentaHeredada\obj\Debug\pjVentaHeredada.frmPrincipal.resources
+F:\Proyectos C#\pjVentaHeredada\pjVentaHeredada\obj\Debug\pjVentaHeredada.Properties.Resources.resources
+F:\Proyectos C#\pjVentaHeredada\pjVentaHeredada\obj\Debug\pjVentaHeredada.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjVentaHeredada\pjVentaHeredada\obj\Debug\pjVentaHeredada.exe
+F:\Proyectos C#\pjVentaHeredada\pjVentaHeredada\obj\Debug\pjVentaHeredada.pdb

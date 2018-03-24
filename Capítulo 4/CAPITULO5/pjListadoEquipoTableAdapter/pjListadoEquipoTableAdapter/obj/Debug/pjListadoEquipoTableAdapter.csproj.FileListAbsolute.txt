@@ -1,0 +1,9 @@
+C:\Libro ADO C#\pjListadoEquipoTableAdapter\pjListadoEquipoTableAdapter\bin\Debug\pjListadoEquipoTableAdapter.exe.config
+C:\Libro ADO C#\pjListadoEquipoTableAdapter\pjListadoEquipoTableAdapter\bin\Debug\pjListadoEquipoTableAdapter.exe
+C:\Libro ADO C#\pjListadoEquipoTableAdapter\pjListadoEquipoTableAdapter\bin\Debug\pjListadoEquipoTableAdapter.pdb
+C:\Libro ADO C#\pjListadoEquipoTableAdapter\pjListadoEquipoTableAdapter\obj\Debug\pjListadoEquipoTableAdapter.csprojResolveAssemblyReference.cache
+C:\Libro ADO C#\pjListadoEquipoTableAdapter\pjListadoEquipoTableAdapter\obj\Debug\pjListadoEquipoTableAdapter.frmListadoEquipos.resources
+C:\Libro ADO C#\pjListadoEquipoTableAdapter\pjListadoEquipoTableAdapter\obj\Debug\pjListadoEquipoTableAdapter.Properties.Resources.resources
+C:\Libro ADO C#\pjListadoEquipoTableAdapter\pjListadoEquipoTableAdapter\obj\Debug\pjListadoEquipoTableAdapter.csproj.GenerateResource.Cache
+C:\Libro ADO C#\pjListadoEquipoTableAdapter\pjListadoEquipoTableAdapter\obj\Debug\pjListadoEquipoTableAdapter.exe
+C:\Libro ADO C#\pjListadoEquipoTableAdapter\pjListadoEquipoTableAdapter\obj\Debug\pjListadoEquipoTableAdapter.pdb

@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjFichaDevolucionDataTable\pjFichaDevolucionDataTable\bin\Debug\pjFichaDevolucionDataTable.exe.config
+F:\Proyectos C#\pjFichaDevolucionDataTable\pjFichaDevolucionDataTable\obj\Debug\pjFichaDevolucionDataTable.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjFichaDevolucionDataTable\pjFichaDevolucionDataTable\obj\Debug\pjFichaDevolucionDataTable.Form1.resources
+F:\Proyectos C#\pjFichaDevolucionDataTable\pjFichaDevolucionDataTable\obj\Debug\pjFichaDevolucionDataTable.Properties.Resources.resources
+F:\Proyectos C#\pjFichaDevolucionDataTable\pjFichaDevolucionDataTable\obj\Debug\pjFichaDevolucionDataTable.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjFichaDevolucionDataTable\pjFichaDevolucionDataTable\bin\Debug\pjFichaDevolucionDataTable.exe
+F:\Proyectos C#\pjFichaDevolucionDataTable\pjFichaDevolucionDataTable\bin\Debug\pjFichaDevolucionDataTable.pdb
+F:\Proyectos C#\pjFichaDevolucionDataTable\pjFichaDevolucionDataTable\obj\Debug\pjFichaDevolucionDataTable.exe
+F:\Proyectos C#\pjFichaDevolucionDataTable\pjFichaDevolucionDataTable\obj\Debug\pjFichaDevolucionDataTable.pdb

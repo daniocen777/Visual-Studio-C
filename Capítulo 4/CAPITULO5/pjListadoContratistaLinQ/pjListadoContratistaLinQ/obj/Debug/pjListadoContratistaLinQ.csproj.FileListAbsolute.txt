@@ -1,0 +1,9 @@
+C:\Libro ADO C#\pjListadoContratistaLinQ\pjListadoContratistaLinQ\bin\Debug\pjListadoContratistaLinQ.exe.config
+C:\Libro ADO C#\pjListadoContratistaLinQ\pjListadoContratistaLinQ\bin\Debug\pjListadoContratistaLinQ.exe
+C:\Libro ADO C#\pjListadoContratistaLinQ\pjListadoContratistaLinQ\bin\Debug\pjListadoContratistaLinQ.pdb
+C:\Libro ADO C#\pjListadoContratistaLinQ\pjListadoContratistaLinQ\obj\Debug\pjListadoContratistaLinQ.csprojResolveAssemblyReference.cache
+C:\Libro ADO C#\pjListadoContratistaLinQ\pjListadoContratistaLinQ\obj\Debug\pjListadoContratistaLinQ.frmListadoContratistas.resources
+C:\Libro ADO C#\pjListadoContratistaLinQ\pjListadoContratistaLinQ\obj\Debug\pjListadoContratistaLinQ.Properties.Resources.resources
+C:\Libro ADO C#\pjListadoContratistaLinQ\pjListadoContratistaLinQ\obj\Debug\pjListadoContratistaLinQ.csproj.GenerateResource.Cache
+C:\Libro ADO C#\pjListadoContratistaLinQ\pjListadoContratistaLinQ\obj\Debug\pjListadoContratistaLinQ.exe
+C:\Libro ADO C#\pjListadoContratistaLinQ\pjListadoContratistaLinQ\obj\Debug\pjListadoContratistaLinQ.pdb

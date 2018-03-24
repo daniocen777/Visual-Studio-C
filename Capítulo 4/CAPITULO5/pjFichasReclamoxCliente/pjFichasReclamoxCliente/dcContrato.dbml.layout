@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dcContrato">
+  <DataContextMoniker Name="/dcContratoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0ac409da-91f6-4739-b548-af8594299549" absoluteBounds="0.75, 1.125, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/dcContratoDataContext/CLIENTE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f6945b8a-459d-4a6c-b563-7b61c02644a8" absoluteBounds="0.76500000000000012, 1.585, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0ede4cfd-4d03-4c60-b244-9786fa4269c3" absoluteBounds="3.5, 1.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dcContratoDataContext/FICHARECLAMO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c7091460-281e-4f7c-9a08-f3265966d65f" absoluteBounds="3.5149999999999997, 1.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.16429768880208); (3.5 : 2.16429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dcContratoDataContext/CLIENTE/CLIENTE_FICHARECLAMO" />
+      <nodes>
+        <classShapeMoniker Id="0ac409da-91f6-4739-b548-af8594299549" />
+        <classShapeMoniker Id="0ede4cfd-4d03-4c60-b244-9786fa4269c3" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

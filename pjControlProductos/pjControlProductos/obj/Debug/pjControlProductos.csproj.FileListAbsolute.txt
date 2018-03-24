@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjControlProductos\pjControlProductos\bin\Debug\pjControlProductos.exe.config
+F:\Proyectos C#\pjControlProductos\pjControlProductos\bin\Debug\pjControlProductos.exe
+F:\Proyectos C#\pjControlProductos\pjControlProductos\bin\Debug\pjControlProductos.pdb
+F:\Proyectos C#\pjControlProductos\pjControlProductos\obj\Debug\pjControlProductos.Form1.resources
+F:\Proyectos C#\pjControlProductos\pjControlProductos\obj\Debug\pjControlProductos.Properties.Resources.resources
+F:\Proyectos C#\pjControlProductos\pjControlProductos\obj\Debug\pjControlProductos.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjControlProductos\pjControlProductos\obj\Debug\pjControlProductos.exe
+F:\Proyectos C#\pjControlProductos\pjControlProductos\obj\Debug\pjControlProductos.pdb
+F:\Proyectos C#\pjControlProductos\pjControlProductos\obj\Debug\pjControlProductos.csprojResolveAssemblyReference.cache

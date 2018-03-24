@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjProductosXML\pjProductosXML\bin\Debug\pjProductosXML.exe.config
+F:\Proyectos C#\pjProductosXML\pjProductosXML\bin\Debug\pjProductosXML.exe
+F:\Proyectos C#\pjProductosXML\pjProductosXML\bin\Debug\pjProductosXML.pdb
+F:\Proyectos C#\pjProductosXML\pjProductosXML\obj\Debug\pjProductosXML.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjProductosXML\pjProductosXML\obj\Debug\pjProductosXML.Form1.resources
+F:\Proyectos C#\pjProductosXML\pjProductosXML\obj\Debug\pjProductosXML.Properties.Resources.resources
+F:\Proyectos C#\pjProductosXML\pjProductosXML\obj\Debug\pjProductosXML.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjProductosXML\pjProductosXML\obj\Debug\pjProductosXML.exe
+F:\Proyectos C#\pjProductosXML\pjProductosXML\obj\Debug\pjProductosXML.pdb

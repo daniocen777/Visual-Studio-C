@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dcContrato">
+  <DataContextMoniker Name="/dcContratoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="2132afbd-25f3-47fa-bfb0-0f01ccd51d9f" absoluteBounds="1.875, 1.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/dcContratoDataContext/CONTRATISTA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7ced4826-d783-47f8-b220-79e3de5b3d89" absoluteBounds="1.8900000000000001, 1.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

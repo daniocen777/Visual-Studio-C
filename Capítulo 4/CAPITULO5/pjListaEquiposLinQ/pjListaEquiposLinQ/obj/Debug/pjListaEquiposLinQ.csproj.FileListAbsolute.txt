@@ -1,0 +1,9 @@
+C:\Libro ADO C#\pjListaEquiposLinQ\pjListaEquiposLinQ\bin\Debug\pjListaEquiposLinQ.exe.config
+C:\Libro ADO C#\pjListaEquiposLinQ\pjListaEquiposLinQ\bin\Debug\pjListaEquiposLinQ.exe
+C:\Libro ADO C#\pjListaEquiposLinQ\pjListaEquiposLinQ\bin\Debug\pjListaEquiposLinQ.pdb
+C:\Libro ADO C#\pjListaEquiposLinQ\pjListaEquiposLinQ\obj\Debug\pjListaEquiposLinQ.csprojResolveAssemblyReference.cache
+C:\Libro ADO C#\pjListaEquiposLinQ\pjListaEquiposLinQ\obj\Debug\pjListaEquiposLinQ.frmListadoEquipos.resources
+C:\Libro ADO C#\pjListaEquiposLinQ\pjListaEquiposLinQ\obj\Debug\pjListaEquiposLinQ.Properties.Resources.resources
+C:\Libro ADO C#\pjListaEquiposLinQ\pjListaEquiposLinQ\obj\Debug\pjListaEquiposLinQ.csproj.GenerateResource.Cache
+C:\Libro ADO C#\pjListaEquiposLinQ\pjListaEquiposLinQ\obj\Debug\pjListaEquiposLinQ.exe
+C:\Libro ADO C#\pjListaEquiposLinQ\pjListaEquiposLinQ\obj\Debug\pjListaEquiposLinQ.pdb

@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjPromedioNotas\pjPromedioNotas\bin\Debug\pjPromedioNotas.exe.config
+F:\Proyectos C#\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.Form1.resources
+F:\Proyectos C#\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.Properties.Resources.resources
+F:\Proyectos C#\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjPromedioNotas\pjPromedioNotas\bin\Debug\pjPromedioNotas.exe
+F:\Proyectos C#\pjPromedioNotas\pjPromedioNotas\bin\Debug\pjPromedioNotas.pdb
+F:\Proyectos C#\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.exe
+F:\Proyectos C#\pjPromedioNotas\pjPromedioNotas\obj\Debug\pjPromedioNotas.pdb

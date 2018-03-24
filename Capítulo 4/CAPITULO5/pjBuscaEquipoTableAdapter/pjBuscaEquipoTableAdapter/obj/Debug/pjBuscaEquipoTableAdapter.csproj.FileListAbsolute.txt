@@ -1,0 +1,9 @@
+C:\Libro ADO C#\pjBuscaEquipoTableAdapter\pjBuscaEquipoTableAdapter\bin\Debug\pjBuscaEquipoTableAdapter.exe.config
+C:\Libro ADO C#\pjBuscaEquipoTableAdapter\pjBuscaEquipoTableAdapter\bin\Debug\pjBuscaEquipoTableAdapter.exe
+C:\Libro ADO C#\pjBuscaEquipoTableAdapter\pjBuscaEquipoTableAdapter\bin\Debug\pjBuscaEquipoTableAdapter.pdb
+C:\Libro ADO C#\pjBuscaEquipoTableAdapter\pjBuscaEquipoTableAdapter\obj\Debug\pjBuscaEquipoTableAdapter.csprojResolveAssemblyReference.cache
+C:\Libro ADO C#\pjBuscaEquipoTableAdapter\pjBuscaEquipoTableAdapter\obj\Debug\pjBuscaEquipoTableAdapter.frmBuscaEquipo.resources
+C:\Libro ADO C#\pjBuscaEquipoTableAdapter\pjBuscaEquipoTableAdapter\obj\Debug\pjBuscaEquipoTableAdapter.Properties.Resources.resources
+C:\Libro ADO C#\pjBuscaEquipoTableAdapter\pjBuscaEquipoTableAdapter\obj\Debug\pjBuscaEquipoTableAdapter.csproj.GenerateResource.Cache
+C:\Libro ADO C#\pjBuscaEquipoTableAdapter\pjBuscaEquipoTableAdapter\obj\Debug\pjBuscaEquipoTableAdapter.exe
+C:\Libro ADO C#\pjBuscaEquipoTableAdapter\pjBuscaEquipoTableAdapter\obj\Debug\pjBuscaEquipoTableAdapter.pdb

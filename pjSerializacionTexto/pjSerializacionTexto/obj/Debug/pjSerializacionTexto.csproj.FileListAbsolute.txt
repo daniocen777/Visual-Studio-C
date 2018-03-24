@@ -1,0 +1,9 @@
+F:\Proyectos C#\pjSerializacionTexto\pjSerializacionTexto\bin\Debug\pjSerializacionTexto.exe.config
+F:\Proyectos C#\pjSerializacionTexto\pjSerializacionTexto\bin\Debug\pjSerializacionTexto.exe
+F:\Proyectos C#\pjSerializacionTexto\pjSerializacionTexto\bin\Debug\pjSerializacionTexto.pdb
+F:\Proyectos C#\pjSerializacionTexto\pjSerializacionTexto\obj\Debug\pjSerializacionTexto.csprojResolveAssemblyReference.cache
+F:\Proyectos C#\pjSerializacionTexto\pjSerializacionTexto\obj\Debug\pjSerializacionTexto.Form1.resources
+F:\Proyectos C#\pjSerializacionTexto\pjSerializacionTexto\obj\Debug\pjSerializacionTexto.Properties.Resources.resources
+F:\Proyectos C#\pjSerializacionTexto\pjSerializacionTexto\obj\Debug\pjSerializacionTexto.csproj.GenerateResource.Cache
+F:\Proyectos C#\pjSerializacionTexto\pjSerializacionTexto\obj\Debug\pjSerializacionTexto.exe
+F:\Proyectos C#\pjSerializacionTexto\pjSerializacionTexto\obj\Debug\pjSerializacionTexto.pdb
