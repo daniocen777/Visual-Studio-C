@@ -1,0 +1,11 @@
+C:\Users\DANIEL\source\repos\Practicando\Practicando\bin\Debug\Practicando.exe.config
+C:\Users\DANIEL\source\repos\Practicando\Practicando\bin\Debug\Practicando.exe
+C:\Users\DANIEL\source\repos\Practicando\Practicando\bin\Debug\Practicando.pdb
+C:\Users\DANIEL\source\repos\Practicando\Practicando\obj\Debug\Practicando.csprojAssemblyReference.cache
+C:\Users\DANIEL\source\repos\Practicando\Practicando\obj\Debug\Practicando.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\source\repos\Practicando\Practicando\obj\Debug\Practicando.exe
+C:\Users\DANIEL\source\repos\Practicando\Practicando\obj\Debug\Practicando.pdb
+C:\Users\DANIEL\source\repos\Practicando\Practicando\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DANIEL\source\repos\Practicando\Practicando\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\DANIEL\source\repos\Practicando\Practicando\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DANIEL\source\repos\Practicando\Practicando\obj\Debug\Practicando.csproj.CopyComplete
